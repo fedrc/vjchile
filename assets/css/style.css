@@ -1,0 +1,26 @@
+.navbar{
+    background-color: transparent !important;
+}
+#logo{
+    height: 30px;
+}
+a{
+    padding-left: 8%;
+}
+#navbarNav{
+    padding-right: 8%;
+}
+#presentacion{
+    color: #fff;
+    padding-top: 2% ;
+    padding-bottom: 2%;
+}
+.segunda_parte{
+    background-color: black;
+    text-align: center;
+}
+i{
+    background-color: aqua;
+    color: #fff;
+    width: 100%;
+}
