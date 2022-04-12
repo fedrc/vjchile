@@ -10,7 +10,7 @@ a{
 #navbarNav{
     padding-right: 8%;
 }
-#presentacion{
+h3{
     color: #fff;
     padding-top: 2% ;
     padding-bottom: 2%;
@@ -26,5 +26,15 @@ i{
     height: 1.25rem;
 }
 p{
+    color: #fff;
+}
+.tercera_parte{
+    background-color: black;
+    text-align: center;
+}
+.card-body{
+    background-color: aqua;
+}
+.card-title{
     color: #fff;
 }
