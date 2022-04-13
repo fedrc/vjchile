@@ -40,9 +40,27 @@ p{
 }
 .cuarta_parte{
     background-color: black;
-    text-align: center;
+    text-align: left;
 }
 .formulario{
     color: #fff;
     text-align: left;
+}
+.quinta_parte{
+    background-color:aqua;
+    color: #fff;
+}
+.iconos{
+    display: flex;
+    justify-content: center;
+    margin:auto 0;
+}
+.iconos ul{
+    display: flex;
+    justify-content: end;
+    
+    list-style: none;
+}
+h4{
+    padding-left: 100px;
 }
